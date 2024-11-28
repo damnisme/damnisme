@@ -22,4 +22,4 @@
 ---
 
 ✨ "Turning challenges into opportunities, one line of code at a time."  
-Connect with me: [LinkedIn](#) | [Twitter](#)  
+Connect with me: [LinkedIn](https://www.linkedin.com/in/hadhami-hidouri-9023b92a4/) | [Twitter](#)  
