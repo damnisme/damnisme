@@ -30,8 +30,8 @@ Key projects include:
 ---
 
 ### 📈 **GitHub Stats**  
-![Havena's GitHub Stats](https://github-readme-stats.vercel.app/api?danmisme=damnisme&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?damnisme=damnisme&layout=compact&theme=radical)  
+![Havena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damnisme&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damnisme&layout=compact&theme=radical)  
 
 ---
 
