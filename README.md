@@ -1,5 +1,5 @@
 # HavenaDev
-# Hi 👋, I'm Havena  
+#                        Hi 👋, I'm Havena  
 A passionate **Full-Stack Developer** and tech innovator from Tunisia 🌍  
 
 ---
@@ -30,8 +30,8 @@ Key projects include:
 ---
 
 ### 📈 **GitHub Stats**  
-![Havena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![Havena's GitHub Stats](https://github-readme-stats.vercel.app/api?danmisme=DAMNISMEE&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?damnisme=DAMNISME&layout=compact&theme=radical)  
 
 ---
 
@@ -48,7 +48,7 @@ Key projects include:
 
 ### 📫 **Connect with Me**  
 Feel free to reach out for collaboration or inquiries:  
-📧 Email: hadhamihidouri01@gmail!com(mailto:hadhamihidouri01@gmail.com)  
+📧 Email: hadhamihidouri01@gmail.com(hadhamihidouri01@gmail.com)  
 🌐 Portfolio: *Coming Soon!*  
 
 ---
