@@ -1,11 +1,11 @@
 <!-- ================================================================== -->
-<!--  HADHAMI HIDOURI — DEVELOPER DASHBOARD README                     -->
+<!--  damnisme (HavenaDev) — DEVELOPER DASHBOARD README                 -->
 <!--  Replace every YOUR_XXX / PROJECT_X token before publishing        -->
 <!-- ================================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hadhami%20Hidouri&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Cybersecurity-Focused%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=E6FFF5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=damnisme&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Cybersecurity-Focused%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=E6FFF5" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+full-stack+developer+%2B+cybersecurity+enthusiast;%24+status+--current;%3E+building+secure%2C+scalable+web+%26+mobile+systems" alt="Typing SVG" />
@@ -25,21 +25,19 @@
 ## 🖥️ System Info
 
 ```bash
-┌──────────────────────────────────────────────────────────┐
-│  guest@hadhami-dev:~$ neofetch                            │
-├──────────────────────────────────────────────────────────┤
-│  Name:      Hadhami Hidouri                               │
-│  Role:      Full-Stack Developer                          │
-│  Focus:     Cybersecurity                                 │
-│  Location:  Djerba, Tunisia 🇹🇳                            │
-│  Studying:  M.Sc. Cybersecurity @ ISSAT Gafsa              │
-│  Degree:    B.Sc. Computer Science, Faculty of Sciences    │
-│             of Gafsa                                       │
-│  Uptime:    3+ years shipping web & mobile apps            │
-│  Stack:     TypeScript · JavaScript · PHP · HTML/SCSS      │
-│             (update as your stack evolves)                 │
-│  Status:    Open to security-minded engineering work       │
-└──────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│  guest@damnisme:~$ neofetch                           │
+├───────────────────────────────────────────────────────┤
+│  Handle:    damnisme (aka HavenaDev)                  │
+│  Role:      Full-Stack Developer                      │
+│  Focus:     Cybersecurity                             │
+│  Location:  Djerba, Tunisia                           │
+│  Studying:  M.Sc. Cybersecurity @ ISSAT Gafsa         │
+│  Degree:    B.Sc. Computer Science                    │
+│  Uptime:    3+ years shipping web & mobile apps       │
+│  Stack:     TypeScript, JavaScript, PHP, HTML/SCSS    │
+│  Status:    Open to security-minded engineering work  │
+└───────────────────────────────────────────────────────┘
 ```
 
 ## 👋 About Me
